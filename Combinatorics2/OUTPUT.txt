@@ -1,0 +1,12 @@
+@author Ben King
+Count the number of anagrams of the following words:
+	(a) error  20
+	(b) street  180
+	(c) allele  60
+	 (d)Mississippi  34650
+How many ways can we distribute: 
+	(a) six apples to four children  84
+	(b) four apples to six children  126
+How many ways can we distribute 
+	(a) six apples and three pears to five children  18634
+	(b)two apples, five pears and six bananas to three children  5799

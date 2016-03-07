@@ -1,0 +1,21 @@
+@author Ben King
+
+pushing 9
+pushing 8
+pushing 7
+pushing 6
+popping first element
+6
+popping first element
+7
+peeking first element
+8
+pushing 5
+popping first element
+5
+popping first element
+8
+popping first element
+9
+popping first element
+null

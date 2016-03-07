@@ -1,0 +1,20 @@
+//@author Ben King
+
+enqueueing 9
+enqueueing 8
+enqueueing 7
+enqueueing 6
+dequeueing last element
+9
+8
+peeking last element
+6
+enqueueing 5
+dequeueing last element
+7
+dequeueing last element
+6
+dequeueing last element
+5
+dequeueing last element
+null

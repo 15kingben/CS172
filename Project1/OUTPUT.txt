@@ -1,0 +1,35 @@
+//@author Ben King
+//This is a test game with the code: G R B A
+//The computer takes 4 guesses
+
+
+
+Why hello there. Let's play MasterMind.
+Please think up a code...
+My Guess is: R R R R
+What is your response:
+How many black pegs?
+1
+How many white pegs?
+0
+My Guess is: R G G G
+What is your response:
+How many black pegs?
+0
+How many white pegs?
+2
+My Guess is: G R B B
+What is your response:
+How many black pegs?
+3
+How many white pegs?
+0
+My Guess is: G R B A
+What is your response:
+How many black pegs?
+4
+I Win! Let's play again.
+Think up a code
+My Guess is: R R R R
+What is your response:
+How many black pegs?

@@ -1,0 +1,21 @@
+//@author Ben King
+
+
+Compiler Warnings:
+Type Safety: Unchecked Cast from Comparable[] to T[]
+
+
+
+Output:
+
+
+
+false
+1 2 2 3 6 5 7 9 
+
+2 2 5 3 6 9 7 
+
+2 3 5 7 6 9 
+
+
+1 2 3 6 7 4 5 14 9 67 11 22 

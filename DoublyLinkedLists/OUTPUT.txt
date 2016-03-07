@@ -1,0 +1,25 @@
+@author Ben King
+
+Question 4:
+printList() and printListRev()
+
+1 2 9 9 3 9 
+9 3 9 9 2 1 
+
+
+
+
+Question 5:
+printList() and printListRev() with lookup() check in insert()
+
+1 2 3 9 
+9 3 2 1 
+
+
+
+
+Question 6:
+added delete(9)
+
+1 2 3
+3 2 1 
